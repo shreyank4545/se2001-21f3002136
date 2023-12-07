@@ -1,4 +1,4 @@
 
-export GITHUB_USERNAME="<username>"
+export GITHUB_USERNAME="shreyank4545"
 
-export GITHUB_REPOSITORY="se2001-<roll_number>"
+export GITHUB_REPOSITORY="se2001-21f3002136"
